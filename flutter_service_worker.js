@@ -16,15 +16,15 @@ const RESOURCES = {
 "assets/AssetManifest.json": "7a9045edfb5f4581bf90873f33711032",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/assets/ca/lets-encrypt-r3.pem": "be77e5992c00fcd753d1b9c11d3768f2",
-"assets/NOTICES": "22fec72c4b68c29c53c3a08c1eca3b86",
+"assets/NOTICES": "c73ce8bb5c744522b037316aea4c5a50",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "c9e57cb926fbfe6c6bd1c8e17b6a9683",
+"main.dart.js": "dee9e6e100bb508fc7c2e76b99da4996",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"index.html": "a7c53e135620ddb1ec06e02e12a0e69d",
-"/": "a7c53e135620ddb1ec06e02e12a0e69d",
+"index.html": "48136f81296951338d9e6a7e7feda750",
+"/": "48136f81296951338d9e6a7e7feda750",
 "manifest.json": "542d5384c98078f4b31afef693ef014f"
 };
 
